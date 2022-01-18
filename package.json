@@ -1,0 +1,27 @@
+{
+  "name": "thirty-seven",
+  "version": "1.0.0",
+  "description": "The number thirty-seven",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhysforyou/thirty-seven-js.git"
+  },
+  "keywords": [
+    "number",
+    "typescript"
+  ],
+  "author": "Rhys Powell <rhys@rpowell.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhysforyou/thirty-seven-js/issues"
+  },
+  "homepage": "https://github.com/rhysforyou/thirty-seven-js#readme",
+  "dependencies": {
+    "typescript": "^4.5.4"
+  }
+}
